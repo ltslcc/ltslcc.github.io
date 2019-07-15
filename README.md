@@ -1,2 +1,2 @@
-# ltslcc.github.io
-web
+# www.hxc.io
+HXchain官方网站
